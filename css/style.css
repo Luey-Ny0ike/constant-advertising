@@ -72,3 +72,25 @@ padding-left: 100px;
   padding-top: 40px;
   font-size: 11px;
 }
+
+/* ABOUT US SECTION */
+.about-us{
+  background: url("images/img_1.jpg");
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  background-size: cover !important;
+  padding: 10em;
+}
+.heading-ab{
+  font-family: 'Lora', serif;
+  text-align: center;
+  color: black;
+}
+.subheading-ab{
+  font-family: 'Lora', serif;
+  color: #9F1B66;
+  padding-top: 25px;
+}
+.tet{
+  font-family: fantasy;
+}
