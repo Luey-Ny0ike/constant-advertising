@@ -79,12 +79,13 @@ padding-left: 100px;
   background-repeat: no-repeat !important;
   background-position: center !important;
   background-size: cover !important;
+  background-attachment: fixed !important;
   padding: 10em;
 }
 .heading-ab{
   font-family: 'Lora', serif;
   text-align: center;
-  color: black;
+  color: white;
 }
 .subheading-ab{
   font-family: 'Lora', serif;
@@ -99,6 +100,8 @@ padding-left: 100px;
 .work{
   padding-top: 30px;
   background-color: #e4bcff;
+  padding-bottom: 70px;
+  margin-bottom: 0px;
 }
 
 /* CONTACT US SECTION */
